@@ -1,13 +1,13 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram URL Upload Bot made by @TheUnusualPsychopath
+This is a Telegram URL Upload Bot made @ajtitan
 
 <b>Please send me any Direct download URL link, I can upload it to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @BrotherWoodFilmz
- @SeriesLand4U"""
+Support Group : @ajmovieweb
+ support channel : @ajmoviewebofficial"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Best Bot ever.. </b>  /help for Details"
@@ -19,8 +19,8 @@ URL | filename | username | password"""
     UPLOAD_START = "Uploading..😴"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @BrotherWoodFilmz"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @BrotherWoodFilmz \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @ajmovieweb"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @ajmovieweb \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
@@ -46,13 +46,13 @@ Expires on: When Bot Ded"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Join For New Movies :</b> 👉 <a href="https://t.me/joinchat/Lyze80ifsAGay8OKc-d69A">JOIN</a>
+<b>👉 Join For New Movies :</b> 👉 <a href="https://t.me/ajmovieweb">JOIN</a>
 
 --------
 Send /me to know current plan details
 
-Support Group : @BrotherWoodGilmz
- @SeriesLand4U"""
+Support Group : @ajmovieweb
+ @ajmoviewebofficial"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
